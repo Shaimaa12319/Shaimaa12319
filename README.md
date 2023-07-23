@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Wallet**
 
-- 🌱 I’m currently learning **ERP System**
+- 🌱 I’m currently learning **ERP System , Handwritting Arabic Letters Recognation  by using Deep learning  **
 
 
 
