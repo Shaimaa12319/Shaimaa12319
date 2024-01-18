@@ -4,9 +4,9 @@
 
 <p align="left"> <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" /> </p>
 
-- 🔭 I’m currently working on **Wallet**
 
-- 🌱 I’m currently learning **ERP System , Handwritting Arabic Letters Recognation  by using Deep learning  **
+
+- 🌱 I’m currently learning Handwritting Arabic Letters Recognation  by using Deep learning  **
 
 
 
