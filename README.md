@@ -14,6 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href=
+"https://www.linkedin.com/in/shaimaa-alshoibi-891939254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaimaa-alshoibi-89139254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaimaa-alshoibi-89139254" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shaimaaalshoibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shaimaaalshoibi" height="30" width="40" /></a>
 <a href="https://medium.com/@shaimaaalshoibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shaimaaalshoibi" height="30" width="40" /></a>
